@@ -7,4 +7,4 @@ bcrypt v/s bcrypt js
 <!-- in arrow function, this ka refrence nhi hota hai -->
 jwt is a bearer that is yeh ek chabi hai
 go to jsonwt github res for more knoweldge
-
+multer 
